@@ -1,1 +1,7 @@
 안들려
+
+Level 1 - The automation is small, only impacting a few driving tasks or small acceleration for the car. The rest are entirely under human control.
+Level 2 - Upgraded, the car has an enhanced cruise control or a stock autonomous steering system. The car can operate safely but the driver needs to be vigilant.
+Level 3 - The driver does not need to continuously monitor, the computer will analyze and automatically recognize the operating limits. If the conditions are not met, the system will notify the driver to control the vehicle again.
+Level 4 - The vehicle can automate the entire process and requires no human intervention. But only in a few places has enough conditions to allow it to automate.
+Level 5 - Fully automate in every condition.
